@@ -1,7 +1,7 @@
 
 site:
   theme: 'Editorial'
-  baseUrl: 'http://username.github.io/project'
+  baseUrl: 'http://andikapratama.github.io/OrchidTutorials'
   about:
     siteName: Kotlin Project
     siteDescription: This is a short description of this project.
@@ -10,7 +10,7 @@ theme:
   primaryColor: '#DE9149'
   legacySearch: false
   social:
-    github: 'username/project'
+    github: 'andikapratama/OrchidTutorials'
   metaComponents:
     - type: 'orchidSearch'
   menu:
@@ -47,7 +47,7 @@ services:
     stages:
       githubPages:
         branch: gh-pages
-        repo: 'project'
-        username: 'username'
+        repo: 'OrchidTutorials'
+        username: 'andikapratama'
       githubReleases:
-        repo: 'username/project'
+        repo: 'andikapratama/OrchidTutorials'

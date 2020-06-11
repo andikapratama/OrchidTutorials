@@ -21,4 +21,5 @@ repositories {
 // 3. Use the "Editorial" theme, and view the site locally at "http://localhost:8080"
 orchid {
     args = listOf("--experimentalSourceDoc")
+    githubToken = ""
 }

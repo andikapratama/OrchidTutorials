@@ -22,7 +22,7 @@ interface Application {
     val name: String
 
     /**
-     * The current application version
+     * The current application version. diabolical!
      */
     val version: String
 
